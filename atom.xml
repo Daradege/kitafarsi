@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa">
     <title>کیتا فارسی</title>
     <subtitle>کیتا فارسی یک قالب زیبا، ساده و روان برای زولا است.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://kita-zola.pages.dev/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev"/>
+    <link rel="self" type="application/atom+xml" href="https://daradege.ir/kitafarsi/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>1404-01-09T00:00:00+00:00</updated>
-    <id>https://kita-zola.pages.dev/atom.xml</id>
+    <id>https://daradege.ir/kitafarsi/atom.xml</id>
     <entry xml:lang="fa">
         <title>راهنمای نحو مارک‌داون</title>
         <published>1404-01-09T00:00:00+00:00</published>
@@ -20,8 +20,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/markdown-syntax/"/>
-        <id>https://kita-zola.pages.dev/markdown-syntax/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/markdown-syntax/"/>
+        <id>https://daradege.ir/kitafarsi/markdown-syntax/</id>
         
         <summary type="html">&lt;p&gt;این مقاله نمونه‌ای از نحو پایه مارک‌داون را ارائه می‌دهد که می‌تواند در فایل‌های محتوای Zola استفاده شود، همچنین نشان می‌دهد که آیا عناصر پایه HTML با CSS در تم Kita تزئین شده‌اند.&lt;&#x2F;p&gt;</summary>
         
@@ -39,8 +39,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/math-typesetting/"/>
-        <id>https://kita-zola.pages.dev/math-typesetting/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/math-typesetting/"/>
+        <id>https://daradege.ir/kitafarsi/math-typesetting/</id>
         
         <summary type="html">&lt;p&gt;قالب کیتا از فرمول‌های ریاضی $\LaTeX$ با استفاده از &lt;a href=&quot;https:&#x2F;&#x2F;katex.org&#x2F;&quot;&gt;KaTeX&lt;&#x2F;a&gt; پشتیبانی می‌کند.&lt;&#x2F;p&gt;</summary>
         
@@ -58,8 +58,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/placeholder-1/"/>
-        <id>https://kita-zola.pages.dev/placeholder-1/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/placeholder-1/"/>
+        <id>https://daradege.ir/kitafarsi/placeholder-1/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -79,8 +79,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/placeholder-2/"/>
-        <id>https://kita-zola.pages.dev/placeholder-2/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/placeholder-2/"/>
+        <id>https://daradege.ir/kitafarsi/placeholder-2/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -100,8 +100,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/placeholder-3/"/>
-        <id>https://kita-zola.pages.dev/placeholder-3/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/placeholder-3/"/>
+        <id>https://daradege.ir/kitafarsi/placeholder-3/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -121,8 +121,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/placeholder-4/"/>
-        <id>https://kita-zola.pages.dev/placeholder-4/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/placeholder-4/"/>
+        <id>https://daradege.ir/kitafarsi/placeholder-4/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -142,8 +142,8 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/placeholder-5/"/>
-        <id>https://kita-zola.pages.dev/placeholder-5/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/placeholder-5/"/>
+        <id>https://daradege.ir/kitafarsi/placeholder-5/</id>
         
         <summary type="html">&lt;p&gt;لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ.&amp;hellip;
 &lt;&#x2F;p&gt;
@@ -163,10 +163,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/shortcodes/"/>
-        <id>https://kita-zola.pages.dev/shortcodes/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/shortcodes/"/>
+        <id>https://daradege.ir/kitafarsi/shortcodes/</id>
         
-        <content type="html" xml:base="https://kita-zola.pages.dev/shortcodes/">&lt;p&gt;The Kita theme providers multiple shortcodes.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://daradege.ir/kitafarsi/shortcodes/">&lt;p&gt;The Kita theme providers multiple shortcodes.&lt;&#x2F;p&gt;
 &lt;p&gt;Never heard of shortcodes? See &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;documentation&#x2F;content&#x2F;shortcodes&#x2F;&quot;&gt;Zola documentation&lt;&#x2F;a&gt; for more information.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;mermaid&quot;&gt;Mermaid&lt;&#x2F;h2&gt;
 &lt;p&gt;To use Mermaid in your page, you have to set &lt;code&gt;extra.mermaid = true&lt;&#x2F;code&gt; in the frontmatter of page.&lt;&#x2F;p&gt;
@@ -478,64 +478,64 @@ sequenceDiagram
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\01-zola.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;01-zola.5923ba7734d63fef.png&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\01-zola.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;01-zola.5923ba7734d63fef.png&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\02-zola-manet.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;02-zola-manet.2226a3bdad057e44.png&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\02-zola-manet.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;02-zola-manet.2226a3bdad057e44.png&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\03-zola-cezanne.png&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;03-zola-cezanne.6c7c03b8490b8bd6.png&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\03-zola-cezanne.png&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;03-zola-cezanne.6c7c03b8490b8bd6.png&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\04-gutenberg.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;04-gutenberg.d64fefc600bc47a5.jpg&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\04-gutenberg.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;04-gutenberg.d64fefc600bc47a5.jpg&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\05-example.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;05-example.f96f9240cfa91c8e.jpg&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\05-example.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;05-example.f96f9240cfa91c8e.jpg&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\06-example.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;06-example.2deba9283400373a.jpg&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\06-example.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;06-example.2deba9283400373a.jpg&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\07-example.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;07-example.2040e9e4040ecfbc.jpg&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\07-example.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;07-example.2040e9e4040ecfbc.jpg&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   &lt;!----&gt;
   
-  &lt;a href=&quot;https:&#x2F;&#x2F;kita-zola.pages.dev&#x2F;shortcodes&#x2F;shortcodes\08-example.jpg&quot; target=&quot;_blank&quot;&gt;
-    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;kita-zola.pages.dev&amp;#x2F;processed_images&amp;#x2F;08-example.42a9c789ea28606e.jpg&quot; &#x2F;&gt;
+  &lt;a href=&quot;https:&#x2F;&#x2F;daradege.ir&#x2F;kitafarsi&#x2F;shortcodes&#x2F;shortcodes\08-example.jpg&quot; target=&quot;_blank&quot;&gt;
+    &lt;img class=&quot;rounded-lg&quot; src=&quot;https:&amp;#x2F;&amp;#x2F;daradege.ir&amp;#x2F;kitafarsi&amp;#x2F;processed_images&amp;#x2F;08-example.42a9c789ea28606e.jpg&quot; &#x2F;&gt;
   &lt;&#x2F;a&gt;
   &lt;!----&gt;
   
@@ -556,10 +556,10 @@ sequenceDiagram
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://kita-zola.pages.dev/theme-config/"/>
-        <id>https://kita-zola.pages.dev/theme-config/</id>
+        <link rel="alternate" type="text/html" href="https://daradege.ir/kitafarsi/theme-config/"/>
+        <id>https://daradege.ir/kitafarsi/theme-config/</id>
         
-        <content type="html" xml:base="https://kita-zola.pages.dev/theme-config/">&lt;p&gt;You can customize Kita theme by editing &lt;code&gt;config.toml&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://daradege.ir/kitafarsi/theme-config/">&lt;p&gt;You can customize Kita theme by editing &lt;code&gt;config.toml&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;Here are all the kita theme options:&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;toml&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-toml &quot;&gt;&lt;code class=&quot;language-toml&quot; data-lang=&quot;toml&quot;&gt;&lt;span style=&quot;color:#65737e;&quot;&gt;# The Kita theme style config.
 &lt;&#x2F;span&gt;&lt;span&gt;[extra]
